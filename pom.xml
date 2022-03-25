@@ -96,17 +96,13 @@
 	<distributionManagement>
 	
 	    <repository>
-	      <id>nexus</id>
-	      <user.name>admin</user.name>
-	      <user.password>admin123</user.password>
+		    <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
 	      <url>http://13.233.253.243:9980/mithuntechnologies/repository/facebook-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <user.name>admin</user.name>
-	      <user.password>admin123</user.password>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
 	      <url>http://13.233.253.243:9980/mithuntechnologies/repository/facebook-snapshat/</url>
 	    </snapshotRepository>
